@@ -1,2 +1,1 @@
-[![Shmink's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shmink&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only&custom_title=shmink's%20github%20stats#gh-dark-mode-only)](https://github.com/shmink/github-readme-stats#gh-dark-mode-only)
-[![Shmink's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=shmink&count_private=true&show_icons=true&theme=default#gh-light-mode-only&custom_title=shmink's%20github%20stats#gh-light-mode-only)](https://github.com/shmink/github-readme-stats#gh-light-mode-only)
+![Shmink's GitHub stats](https://github-readme-stats.vercel.app/api?username=shmink&count_private=true&show_icons=true&custom_title=shmink's%20github%20stats)
